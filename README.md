@@ -1,7 +1,7 @@
 ### Ola, sou Alex Coimbra 👋
 
 
-- 👨‍💻 Sou Analista de TI em evolução permanente.  
+- 👨‍💻 Analista de TI em evolução permanente.  
 - 🔭 Atualmente dedico os meus estudos a cloud computing e ferramentas de automação.
 - 🌱 Laboratórios permanentes: Amazon AWS, Terraform, ShellScript e Python.
 - 🐧 Entusiasta Linux.
