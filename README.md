@@ -9,9 +9,9 @@
 - 📫 How to reach me: ex.al@hotmail.com
 - ₿ Bitcoin Liberta!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coimbralex&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-coimbralex.vercel.app//api?username=coimbralex&show_icons=true&theme=radical)
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coimbralex&theme=blue-green)
+![Alex GitHub stats](https://github-readme-stats-coimbralex.vercel.app//api/top-langs/?username=coimbralex&theme=blue-green)
 
 
 </div>
