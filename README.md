@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Analista de TI em constante aprendizagem.  
-- 🔭 Atualmente dedico os meus estudos a cloud computing e ferramentas de automação.
+- 🔭 Atualmente dedico os meus estudos a Cloud Computing e ferramentas de automação.
 - 🌱 Laboratórios permanentes: Amazon AWS, Terraform, ShellScript e Python.
 - 🐧 Entusiasta Linux.
 - 💬 Se também tem interesse pelos mesmos assuntos podemos trocar figurinhas.
